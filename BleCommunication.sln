@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BleCommunication", "BleCommunication.csproj", "{34B72A00-1059-441E-85C6-38653029A81E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34B72A00-1059-441E-85C6-38653029A81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B72A00-1059-441E-85C6-38653029A81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B72A00-1059-441E-85C6-38653029A81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B72A00-1059-441E-85C6-38653029A81E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBCBAE95-D792-438F-894B-E67D222EF6BE}
+	EndGlobalSection
+EndGlobal
